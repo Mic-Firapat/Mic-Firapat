@@ -1,2 +1,2 @@
-Hi I'm a French student in computer sciences. I'm learning how to use github in order to complete multiple college's projects for now.
+Hi I'm a French major in computer sciences. This GitHub has been mostly used to complete universitary projects for now.
 I'm currently learning/using Python, C, Prolog, HTML/CSS, SQL, Js, Java and PHP.
